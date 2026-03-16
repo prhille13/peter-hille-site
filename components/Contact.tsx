@@ -19,18 +19,10 @@ export default function Contact() {
 
         <div className="flex flex-wrap gap-8">
           <a
-            href="mailto:peter@youremail.com"
+            href="mailto:peter@peterhille.net"
             className="inline-flex items-center gap-2 text-[0.72rem] tracking-[0.15em] uppercase text-ink border-b border-ink pb-0.5 hover:text-wine hover:border-wine transition-colors duration-200"
           >
             Email ↗
-          </a>
-          <a
-            href="https://linkedin.com/in/peterhille"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 text-[0.72rem] tracking-[0.15em] uppercase text-ink border-b border-ink pb-0.5 hover:text-wine hover:border-wine transition-colors duration-200"
-          >
-            LinkedIn ↗
           </a>
         </div>
       </div>
