@@ -8,7 +8,7 @@ module.exports = {
       env: {
         NODE_ENV: "production",
         PORT: 3001,
-	RESEND_API_KEY:re_eZ67xVCv_NCY2R87KhTBCEWMVsVoxZBdr
+	RESEND_API_KEY:
       },
     },
   ],
