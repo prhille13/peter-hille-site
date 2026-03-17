@@ -3,7 +3,7 @@ import { NextResponse } from 'next/server';
 
 export async function POST(req: Request) {
   try {
-    const resend = new Resend(process.env.RESEND_API_KEY);
+    const resend = new Resend('re_dVvSw4sw_LUew5xhf9Fttzp94v1zUg6k2');
     const { name, email, message } = await req.json();
 
     if (!name || !email || !message) {
