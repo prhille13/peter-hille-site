@@ -1,5 +1,14 @@
 const roles = [
   {
+    dates: "2025 – Present",
+    company: "Seventh Son Brewing",
+    location: "Columbus, OH",
+    title: "General Manager",
+    description:
+      "Led front-of-house and operations for one of Columbus's premier craft breweries. Managed a full team, oversaw scheduling and labor, and maintained the taproom's reputation for hospitality. Worked directly with ownership on programming, events, and brand positioning.",
+    tags: ["GM operations", "Team leadership", "Brand programming", "Craft beer"],
+  },
+  {
     dates: "2021 – Present",
     company: "Barrel & Bottle",
     location: "Columbus, OH",
@@ -9,19 +18,10 @@ const roles = [
     tags: ["Wine buying", "Vendor relations", "Staff training", "Margin management"],
   },
   {
-    dates: "2018 – 2021",
-    company: "Seventh Son Brewing",
-    location: "Columbus, OH",
-    title: "General Manager",
-    description:
-      "Led front-of-house and operations for one of Columbus's premier craft breweries. Managed a full team, oversaw scheduling and labor, and maintained the taproom's reputation for hospitality. Worked directly with ownership on programming, events, and brand positioning.",
-    tags: ["GM operations", "Team leadership", "Brand programming", "Craft beer"],
-  },
-  {
     dates: "2013 – 2018",
     company: "Brewing Industry",
     location: "St. Louis, MO",
-    title: "Various Roles",
+    title: "Production Manager, Lead Brewer",
     description:
       "Built foundational industry experience in St. Louis's growing craft brewing scene — developing skills in hospitality, product knowledge, and customer-facing sales and education that shaped a career in beverage.",
     tags: ["Craft brewing", "Hospitality", "Customer education"],
